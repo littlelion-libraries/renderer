@@ -1,0 +1,13 @@
+{
+  "author": {
+    "name": "Little Lion",
+    "url": "https://github.com/little-lion-libraries"
+  },
+  "dependencies": {},
+  "description": "",
+  "displayName": "Renderer",
+  "keywords": [],
+  "name": "com.little-lion.renderer",
+  "unity": "2021.3",
+  "version": "1.0.0"
+}
